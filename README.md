@@ -47,7 +47,7 @@ BDUSS | xxxxxxxxxxx
 
 + 自己提交一次`push`。
 
-将`run.txt`中的`flag`由`0`改为`1`
+将`run.txt`中的`flag`由`0`改为`1`    
 
 ```patch
 - flag: 0
